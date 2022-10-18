@@ -1,0 +1,38 @@
+Inventory Management For Retailers
+
+Team Members: 
+     Kaviya.C (TL)
+     Kalaiselvi.S (M1)
+     Malathi.M (M2)
+     Aishwarya.K (M3)
+ 
+Paper 1: The relationship between capacity utilization and inventory invesment
+Publication Year: 1957
+Author: Abramovitz , Odiglian
+They highlighted the relationship between capacity utilization and inventory investment. Existing 
+stock of inventories was expected to adjust to the desired levels. Thus the variable, existing stock of 
+inventories, was essential to be negatively related with the desired stock. The result was that there 
+is positive relation among the ratio of inventory to sales and inventory investment. High ratio of 
+stocks to sales in the past suggests requirement of high levels of inventories in the past and 
+promising high investment in inventories in the current period also.
+
+Paper 2: Study on manufacture inventories
+Publication Year: (1970)
+Author: Krishnamurty and Sastry 
+t is the most comprehensive study on manufacturers’ inventories. They used the CMI data and the 
+consolidated balance sheet data of public limited companies published by the RBI, in order to 
+analyse each of the major components, like the raw materials, goods-in-process and finished goods, 
+for 21 industries over the period ranging from 1946-62. The study was a time series one although 
+there were some inter-industry cross-section analyses that were carried out in the analysis. The 
+Accelerator represented by change in sales, bank finance and short-term interest rate was found to 
+be an important determinant. The utilisation of productive capacity and price anticipations was also 
+found to be relevant in the study.
+
+Paper 3: 
+Publication Year: (1972)
+Author: George 
+It was the study on cross section analysis of balance sheet data of 52 public limited companies for 
+the period of 1967- 70. Accelerator, internal and external finance variables were considered in the 
+formulation of equations for raw materials including goods-in-process inventories. However, 
+equations for finished goods inventories conceive only output variable. Deliberation was given on 
+accelerator and external finance variables
